@@ -1,0 +1,10 @@
+# OS Junk
+.DS_Store
+Thumbs.db
+
+# IDE & Editor files
+.vscode/
+.idea/
+
+# Environment files (jika ada credential sensitif)
+.env
